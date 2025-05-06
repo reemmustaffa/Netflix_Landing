@@ -332,4 +332,19 @@ img{
     .table {
         font-size: 0.8rem;
     }
+    .showcase-content h1{
+        font-size: 2.5rem;
+	line-height: .6;
+    }
+    .showcase-content p{
+        font-size: 1rem;
+    }
+    .tabs .container i{
+        font-size: 2rem;
+    }
+    .btn-xl{
+        padding: 1rem 1.5rem;
+        font-size: 1rem;
+        text-transform: uppercase;
+    }
 }
